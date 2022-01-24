@@ -363,14 +363,14 @@ h4 h6{
    
 }
   .chat_boxdatas_right{
-    width: 50%; 
+    width: 30%; 
    
 }
 .chat_boxdatas_rightt{
     width: 36%;
 }
 .box_databox{
-    width: 50%;
+    width: 70%;
 }
 .chat_boxdiv{
 border: 5px solid #211915;
@@ -418,6 +418,7 @@ margin-top: 60px;
 
 .service_sub{
     display: flex;
+    margin-top: 16px;
     
 }
 .servicesub_data{
@@ -599,7 +600,7 @@ margin-top: 60px;
 
                         .chat_boxdiv {
                             width: 294px;
-                            height: 280px;
+                            height: 392px;
                         }
                         .chat_boxsec{
                             display: none;
@@ -617,6 +618,7 @@ margin-top: 60px;
                         .chat_boxdiv{
                             float:none;
                             margin-left: 40px; 
+                            margin-top: 0px
                           
                         }
                         .chat_boxdivnext
@@ -661,8 +663,8 @@ margin-top: 60px;
                             font-size: 12px;
                             display: flex;
                             align-items: flex-start;
-                            margin-top: 6px;
-                            margin-bottom: px;
+                            margin-top: 16px;
+                            
                         }
                         .servicesub_data {
                             padding: 2px 8px;
